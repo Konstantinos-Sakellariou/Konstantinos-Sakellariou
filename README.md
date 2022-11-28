@@ -1,5 +1,4 @@
 <h1 align="center">Hallooo people, I'm Kostas</h1>
-<br>
 <hr>
 
 <h3 align="left">:man_technologist: About Me :</h3>
@@ -50,3 +49,4 @@ I'm a Data Scientist with passion for Machine Learning and currently working on 
 <br>
 <p align="left">
 <a href=https://www.linkedin.com/in/konstantinos-sakellariou-85b155126/ target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="30" width="40" /></a> 
+<hr>
